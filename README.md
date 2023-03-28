@@ -1,2 +1,1 @@
-# worldmap
-Created with CodeSandbox
+# D3 Symbol Map
